@@ -42,8 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-<<<<<<< HEAD
-          tags: {{ YOUR_DOCKERHUB_REPOSITORY }}/python-helloworld:v1
-=======
-          tags: ajeshbaby/python-helloworld:latest
->>>>>>> 1c5c00c961570428f794cc009d659270df21c893
+          tags: ajeshbaby/python-helloworld:v2
